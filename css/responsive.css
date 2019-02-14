@@ -1,0 +1,868 @@
+
+@media (max-width: 1199px){
+	.banner-section .row {
+    
+   }
+    .carousel-item img{ height: 700px; }
+
+    .news .writing {
+    background: #fff;
+    padding: 12px;
+    width: 270px;
+    margin: auto;}
+
+    .category-left img {
+    height: 300px;
+  }
+    .category p {
+    position: absolute;
+    color: #fff;
+    bottom: 2%;
+    left: 5%;
+    font-size: 14px;
+    font-weight: 500;
+    text-transform: capitalize;
+}
+    .popular-courses .writing {
+    background: #fff;
+    padding: 0 5.5px;
+        padding-top: 0px;
+    margin: auto;
+    width: 290px;
+    margin: auto;
+    padding-top: 20px;
+}
+   .our-differences h4 {
+    color: black;
+    font-size: 19px;
+    font-weight: 550;
+    padding: 15px 0;
+}
+   .our-differences p {
+    color: #514e4ecf;
+    font-size: 15px;
+    font-weight: 500;
+}
+    .header h1 {
+    text-transform: uppercase;
+    font-size: 36px;
+    font-weight: 550;
+}
+}
+
+@media (max-width: 991px){
+	.carousel-item img{ height: 600px; }
+    .carousel h1 {
+    color: #fff;
+    font-size: 47px;
+    text-transform: capitalize;
+    font-weight: 600;
+}
+    .carousel p {
+    color: #cbc4c4;
+    font-size: 18px;
+    font-weight: 550;
+}
+    .btn {
+    font-size: 15px;
+    width: 150px;}
+
+   .category-left img {
+    height: 230px;
+}
+    .category-left p {
+    position: absolute;
+    color: #fff;
+    bottom: 5%;
+    left: 5%;
+    font-size: 18px;
+    font-weight: 500;
+    text-transform: capitalize;
+ }
+    .category-left h4 {
+    position: absolute;
+    color: #fff;
+    bottom: 18%;
+    left: 5%;
+    font-size: 20px;
+    font-weight: 600;
+    text-transform: capitalize;
+  }
+  .header h1 {
+    text-transform: uppercase;
+    font-size: 30px;
+    font-weight: 550;
+}
+   .category h4 {
+    position: absolute;
+    color: #fff;
+    bottom: 17%;
+    left: 5%;
+    font-size: 13px;
+    font-weight: 550;
+    text-transform: capitalize;
+} 
+    .category p {
+    position: absolute;
+    color: #fff;
+    bottom: 0;
+    left: 5%;
+    font-size: 10px;
+    font-weight: 500;
+    text-transform: capitalize;
+}
+    .our-differences h4 {
+    color: black;
+    font-size: 14px;
+    font-weight: 600;
+    padding: 15px 0;
+}
+    .our-differences p {
+    color: #514e4ecf;
+    font-size: 12px;
+    font-weight: 500;
+}
+    .popular-courses img {
+    width: 300px;
+    display: block;
+    margin: auto;
+    height: 150px;
+}
+     .popular-courses .writing {
+    background: #fff;
+    padding: 0 5.5px;
+        padding-top: 0px;
+    padding-top: 0px;
+    margin: auto;
+    width: 210px;
+    margin: auto;
+    padding-top: 20px;
+}
+    .popular-courses .writing p {
+    text-transform: capitalize;
+    color: #6d727ad4;
+    font-size: 12px;
+    font-weight: 550;
+}
+    .popular-courses .writing h4 {
+    font-size: 19px;
+    font-weight: 550;
+    color: #140c04;
+    text-transform: capitalize;
+}
+    .btn-green {
+    background: #65c764;
+    color: #fff;
+    border: 0;
+    padding: 2px 12px;
+    text-transform: capitalize;
+    border-radius: 100px;
+    font-weight: 500;
+    font-size: 14px;
+}
+    .popular-courses .writing ul li {
+    padding: 0 2px;
+}
+    .btn-red {
+    background: #ff5354;
+    border: 0;
+    border-radius: 100px;
+    color: #fff;
+    padding: 4px 10px;
+    font-size: 12px;
+    font-weight: 550;
+}
+    .popular-courses .writing span {
+    display: block;
+    background: #c3b8b854;
+    width: 190px;
+    height: 2px;
+    overflow: hidden;
+    margin: auto;
+}
+   .courses {
+    background-image: url(../images/categorybg.jpg);
+    background-size: cover;
+    height: 650px;
+}
+   .events img {
+    width: 800px;
+    border-radius: 50%;
+    height: 100px;
+    transform: translateY(40px);
+    border: 1px solid #fff;
+}
+    .dates {
+    text-align: center;
+    background: #2d6ed6;
+    height: 220px;
+    color: #fff;
+    padding: 50px 0;
+}
+    .long-writing {
+    background: #fff;
+    padding: 18px 0;
+}
+    .long-writing p {
+    color: #8a7b7be3;
+    font-size: 14px;
+    font-weight: 530;
+}
+    .long-writing h4 {
+    font-size: 20px;
+    font-weight: 550;
+    text-transform: capitalize;
+}
+    .long-writing p {
+    color: #8a7b7be3;
+    font-size: 13px;
+    font-weight: 530;
+}
+    .events img {
+
+    width: 90px;
+    border-radius: 50%;
+    height: 90px;
+    transform: translateY(50px);
+    border: 1px solid #fff;
+    padding: 0 5px;
+
+}
+   .news .writing {
+
+    background: #fff;
+    padding: 5px 5px;
+    width: 200px;
+    margin: auto;
+
+}
+    .news .writing p {
+
+    text-transform: capitalize;
+    color: #6d727ab5;
+    font-size: 12px;
+    font-weight: 550;
+
+}
+   .news .writing h4 {
+
+    font-size: 15px;
+    font-weight: 600;
+    color: #140c04;
+    text-transform: capitalize;
+
+}
+   .footer p {
+
+    color: #fff;
+    font-size: 13px;
+    padding: 20px 0 5px;
+
+}
+   .footer ul li a i {
+
+    font-size: 14px;
+
+}
+   .footer ul li a {
+
+    padding-right: 20px;
+    color: #fff;
+
+}
+   .header-f {
+
+    color: #fff;
+    padding-top: 20px;
+    text-transform: capitalize;
+
+}
+  .header-f h4 {
+
+    font-size: 21px;
+
+}
+   .footer-ul ul li a {
+
+    color: #fff;
+    font-size: 14px;
+    font-weight: 550;
+    text-transform: capitalize;
+
+}
+    .gallery img {
+
+    width: 100px;
+    height: 60px;
+    width: 100%;
+
+}
+    .gallery {
+
+    width: 60px;
+    height: 60px;
+    padding: 5px;
+    margin-bottom: 5px;
+
+}
+    .info p {
+
+    padding: 0 5px;
+
+}
+   .info a {
+
+    color: #fff;
+    font-size: 14px;
+
+}
+.info {
+
+    padding: 9px 0;
+
+}
+    
+}
+
+
+@media (max-width: 767px){
+   .carousel-item img{ height: 500px; }
+    .carousel h1 {
+    color: #fff;
+    font-size: 37px;
+    text-transform: capitalize;
+    font-weight: 600;
+}
+.btn {
+    width: 130px;
+    font-size: 13px;
+}
+.navbar img {
+    width: 150px;
+    padding-top: 5px;
+}
+   .category-left {
+    position: relative;
+    margin: 20px auto;
+    width: 450px;
+}
+    .category-left img {
+    height: 250px;
+}
+    
+     .category-left h4 {
+
+    position: absolute;
+    color: #fff;
+    bottom: 18%;
+    left: 35%;
+    font-size: 22px;
+    font-weight: 600;
+    text-transform: capitalize;
+
+}
+    .category-left p {
+
+    position: absolute;
+    color: #fff;
+    bottom: 3%;
+    left: 37%;
+    font-size: 17px;
+    font-weight: 550;
+    text-transform: capitalize;
+
+}
+   .category h4 {
+
+    position: absolute;
+    color: #fff;
+    bottom: 17%;
+    left: 5%;
+    font-size: 17px;
+    font-weight: 600;
+    text-transform: capitalize;
+
+}
+    .category p {
+
+    position: absolute;
+    color: #fff;
+    bottom: 0;
+    left: 5%;
+    font-size: 13px;
+    font-weight: 550;
+    text-transform: capitalize;
+
+}
+   .header h1 {
+
+    text-transform: uppercase;
+    font-size: 26px;
+    font-weight: 550;
+
+}
+    .header span {
+
+    display: block;
+    background: #1a6bbd;
+    height: 3px;
+    width: 80px;
+    margin: 10px auto 2px;
+
+}
+    .our-differences i {
+
+    display: block;
+    font-size: 34px;
+    color: #1a6bbd;
+
+}
+    .our-differences h4 {
+
+    color: black;
+    font-size: 18px;
+    font-weight: 600;
+    padding: 15px 0;
+
+}
+    .our-differences p {
+
+    color: #514e4ecf;
+    font-size: 15px;
+    font-weight: 500;
+    text-align: center;
+
+}
+   .header {
+
+    padding: 40px 0 35px;
+
+}
+   
+
+    .popular-courses img {
+
+    width: 250px;
+    display: block;
+    margin: auto;
+    height: 150px;
+
+}
+    .courses {
+
+    background-image: url(../images/categorybg.jpg);
+    background-size: cover;
+    height: 1510px;
+
+}
+   .popular-courses img {
+
+    width: 250px;
+    display: block;
+    margin: auto;
+    height: 190px;
+    width: 100%;
+
+}
+   .popular-courses .writing p {
+
+    text-transform: capitalize;
+    color: #6d727ad4;
+    font-size: 15px;
+    font-weight: 550;
+
+}
+   .popular-courses .writing h4 {
+
+    font-size: 24px;
+    font-weight: 600;
+    color: #140c04;
+    text-transform: capitalize;
+
+}
+   .popular-courses .writing span {
+
+    display: block;
+    background: #c3b8b854;
+    width: 250px;
+    height: 2px;
+    overflow: hidden;
+    margin: auto;
+
+}
+   .popular-courses .writing ul {
+
+    padding: 10px 0 12px;
+
+}
+   .btn-green {
+
+    background: #65c764;
+    color: #fff;
+    border: 0;
+    padding: 2px 20px;
+    text-transform: capitalize;
+    border-radius: 100px;
+    font-weight: 500;
+    font-size: 16px;
+
+}
+    .btn-red {
+
+    background: #ff5354;
+    border: 0;
+    border-radius: 100px;
+    color: #fff;
+    padding: 4px 12px;
+    font-size: 15px;
+    font-weight: 550;
+
+  }
+  .popular-courses {
+    width: 310px;
+    margin: 12px auto;}
+
+ .popular-courses .writing { width: 310px;}
+   .courses .header p {
+    color: #e6e4e4;
+    font-size: 15px;
+}
+  .events img{ display: none; }
+   .events {
+    background: #fff;
+    margin: 10px 0;
+    height: 200px;
+}
+   .dates {
+    text-align: center;
+    background: #2d6ed6;
+    height: 200px;
+    color: #fff;
+    padding: 59px 0;
+}
+   .long-writing h4 {
+    font-size: 21px;
+    font-weight: 550;
+    text-transform: capitalize;
+    padding-bottom: 10px;
+}
+  .dates h1 {
+    font-size: 30px;
+}
+    .news {
+    border: 1px solid #46c1cf45;
+    width: 320px;
+    margin: auto;
+        margin-bottom: auto;
+    margin-bottom: 12px;}
+
+   .news .writing {
+    background: #fff;
+    padding: 5px 5px;
+    width: 230px;
+    margin: auto;
+}
+   .news .writing h4 {
+    font-size: 20px;
+    font-weight: 600;
+    color: #140c04;
+    text-transform: capitalize;
+}
+   .news .writing p {
+    text-transform: capitalize;
+    color: #6d727ab5;
+    font-size: 14px;
+    font-weight: 550;
+    padding: 5px 0;
+}
+    .footer img {
+    margin: 5px 0;
+}
+   .footer p {
+    color: #fff;
+    font-size: 13px;
+    padding: 5px 0 5px;
+}
+    .footer ul li a i {
+    font-size: 16px;
+}
+    .footer ul {
+    padding: 0 170px;
+}
+    .header-f {
+    color: #fff;
+    padding-top: 20px;
+    text-transform: capitalize;
+    text-align: center;
+}
+   .footer-ul {
+    padding: 10px 0;
+}
+   .footer-ul ul li {
+    padding: 0 16px;
+}
+   .footer-ul ul li a {
+    color: #fff;
+    font-size: 15px;
+    font-weight: 550;
+    text-transform: capitalize;
+}
+     .gallery {
+    width: 150px;
+    height: 100px;
+    margin-bottom: 20px;
+}
+  .gallery img {
+    width: 100px;
+    height: 100px;
+    width: 100%;
+}
+   .information {
+    width: 300px;
+    margin: auto;
+        margin-top: auto;
+    margin-top: 30px;
+}
+    
+}
+
+@media (max-width: 575px){
+    .carousel-item img{ height: 400px; }
+ .carousel h1 {
+    color: #fff;
+    font-size: 25px;
+    text-transform: capitalize;
+    font-weight: 650;
+}
+.carousel p {
+    color: #cbc4c4;
+    font-size: 12px;
+    font-weight: 600;
+}
+.btn {
+    width: 100px;
+    font-size: 10px;
+}
+.navbar img {
+    width: 120px;
+    padding-top: 5px;
+}
+   .header h1 {
+    text-transform: uppercase;
+    font-size: 23px;
+    font-weight: 550;
+}
+   .category-left {
+    position: relative;
+    margin: 20px auto;
+    width: 310px;
+}
+   .category-left img {
+    height: 200px;
+}
+   .category-left h4 {
+    position: absolute;
+    color: #fff;
+    bottom: 18%;
+    left: 35%;
+    font-size: 20px;
+    font-weight: 600;
+    text-transform: capitalize;
+}
+   .category-left p {
+    position: absolute;
+    color: #fff;
+    bottom: 3%;
+    left: 37%;
+    font-size: 15px;
+    font-weight: 550;
+    text-transform: capitalize;
+}
+     .category-left {
+    position: relative;
+    margin: 15px auto;
+    width: 310px;
+}
+  .category {
+    position: relative;
+    width: 310px;
+    margin: 0 auto 10px;
+}
+   .category h4 {
+    position: absolute;
+    color: #fff;
+    bottom: 17%;
+    left: 35%;
+    font-size: 17px;
+    font-weight: 600;
+    text-transform: capitalize;
+}
+   .category p {
+    position: absolute;
+    color: #fff;
+    bottom: 2%;
+    left: 36%;
+    font-size: 13px;
+    font-weight: 550;
+    text-transform: capitalize;
+}
+   .our-differences p {
+    color: #514e4ecf;
+    font-size: 13px;
+    font-weight: 500;
+    text-align: center;
+}
+   .our-differences h4 {
+    color: black;
+    font-size: 17px;
+    font-weight: 600;
+    padding: 15px 0;
+}
+    .our-differences i {
+    display: block;
+    font-size: 30px;
+    color: #1a6bbd;
+}
+   .popular-courses .writing p {
+    text-transform: capitalize;
+    color: #6d727ad4;
+    font-size: 13px;
+    font-weight: 550;
+}
+   .popular-courses .writing h4 {
+    font-size: 20px;
+    font-weight: 600;
+    color: #140c04;
+    text-transform: capitalize;
+}
+    .popular-courses .writing {
+    width: 310px;
+    padding: 10px;
+}
+   .btn-green {
+    background: #65c764;
+    color: #fff;
+    border: 0;
+    padding: 2px 15px;
+    text-transform: capitalize;
+    border-radius: 100px;
+    font-weight: 500;
+    font-size: 15px;
+}
+   .popular-courses .writing ul li {
+    padding: 0 6px;
+}
+   .popular-courses .writing ul {
+    padding: 10px 0 5px;
+}
+   .btn-red {
+    background: #ff5354;
+    border: 0;
+    border-radius: 100px;
+    color: #fff;
+    padding: 4px 9px;
+    font-size: 14px;
+    font-weight: 550;
+}
+   .long-writing h4 {
+
+    font-size: 22px;
+    font-weight: 550;
+    text-transform: capitalize;
+
+}
+  .upcoming-events {
+
+    background: #f3f3f3;
+    padding-bottom: 80px;
+    padding-top: 40px;
+    height: 1600px;
+
+}
+  .long-writing ul li {
+
+    padding: 0 4px;
+
+}
+   .long-writing p {
+
+    color: #8a7b7be3;
+    font-size: 15px;
+    font-weight: 530;
+
+}
+  .long-writing {
+
+    background: #fff;
+    padding: 10px 10px;
+
+}
+   .events {
+    background: #fff;
+    margin: 5px auto;
+    height: 350px;
+    width: 350px;
+}
+   .dates {
+    text-align: center;
+    background: #2d6ed6;
+    color: #fff;
+    width: 350px;
+}
+  
+   .date {
+    height: 123px;
+}
+  .dates h1 {
+    font-size: 25px;
+}
+
+  .long-writing {
+    background: #fff;
+    padding: 30px 10px;
+    height: 300px;
+}
+  .stamp-section{ display: none; }
+
+  .date {
+
+    height: 135px;
+
+}
+  .events {
+
+    background: #fff;
+    margin: 10px auto;
+    height: 430px;
+    width: 350px;
+
+}
+.dates p {
+
+    font-size: 18px;
+
+}
+  .gallery {
+
+    width: 150px;
+    height: 70px;
+    margin: 10px auto;
+
+}
+  .gallery img {
+
+    width: 100px;
+    height: 80px;
+    width: 100%;
+
+}
+.hvr1::before{
+    content: "";
+    width: 100%;
+    height: 100%;
+    background: #60aa5d96;
+    position: absolute;
+}
+ 
+
+}
