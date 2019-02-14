@@ -127,9 +127,20 @@ padding: 0;}
 
 .upcoming-events{background: #f3f3f3;padding-bottom: 80px;padding-top: 40px;}
 .events{background: #fff;margin: 10px 0;}
-.dates{text-align: center;background: #2d6ed6;height: 200px;color: #fff;padding: 50px 0;}
-.dates h1{}
-.dates p{}
+.date{text-align: center;background: #2d6ed6;height: 200px;color: #fff;padding: 50px 0;}
+.dates h1{
+    font-size: 40px;
+    color: #fff;
+    padding: 0 10px;
+} 
+.dates p {
+
+    font-size: 18px;
+    color: #fff;
+    text-align: center;
+    padding: 0 14px;
+
+}
 .date{}
 .long-writing{background: #fff;padding: 25px 0;}
 .long-writing h4{font-size: 24px;font-weight: 550;text-transform: capitalize;}
