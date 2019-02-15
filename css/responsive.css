@@ -723,6 +723,12 @@
     font-size: 30px;
     color: #1a6bbd;
 }
+
+    .courses {
+    background-image: url(../images/categorybg.jpg);
+    background-size: cover;
+    height: 1510px;
+}
    .popular-courses .writing p {
     text-transform: capitalize;
     color: #6d727ad4;
