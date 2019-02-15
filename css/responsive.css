@@ -1,8 +1,8 @@
-
+@media (max-width: 1499px){ 
+ .carousel-item img{ height: px; }
+  }
 @media (max-width: 1199px){
-	.banner-section .row {
     
-   }
     .carousel-item img{ height: 700px; }
 
     .news .writing {
@@ -51,7 +51,7 @@
 }
 
 @media (max-width: 991px){
-	.carousel-item img{ height: 600px; }
+    .carousel-item img{ height: 600px; }
     .carousel h1 {
     color: #fff;
     font-size: 47px;
@@ -776,7 +776,7 @@
     background: #f3f3f3;
     padding-bottom: 80px;
     padding-top: 40px;
-    height: 1600px;
+    height: 1700px;
 
 }
   .long-writing ul li {
@@ -790,6 +790,7 @@
     font-size: 15px;
     font-weight: 530;
 
+    padding: 5px 0;
 }
   .long-writing {
 
@@ -808,11 +809,10 @@
     background: #2d6ed6;
     color: #fff;
     width: 350px;
+    height: 150px;
 }
   
-   .date {
-    height: 123px;
-}
+   
   .dates h1 {
     font-size: 25px;
 }
@@ -824,16 +824,13 @@
 }
   .stamp-section{ display: none; }
 
-  .date {
+ 
 
-    height: 135px;
-
-}
   .events {
 
     background: #fff;
     margin: 10px auto;
-    height: 430px;
+    height: 450px;
     width: 350px;
 
 }
